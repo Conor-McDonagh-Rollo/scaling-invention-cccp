@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(238, 127, 127);
+}
+
+#main {
+    width: 100%;
+    border-style: inset;
+    background-color: rgb(243, 145, 145);
+    padding: 1%;
+}
+
+#main p {
+    text-align: center;
+}
