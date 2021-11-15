@@ -12,3 +12,19 @@ body {
 #main p {
     text-align: center;
 }
+
+@media only screen {
+    #rave {
+      animation: rave 10s infinite;
+    }
+
+    @keyframes rave {
+        0%   {background-color:rgb(235, 34, 34);}
+        25%  {background-color:rgb(222, 235, 34);}
+        50%  {background-color:rgb(34, 235, 84);}
+        75%  {background-color:rgb(34, 71, 235);}
+        100% {background-color:rgb(235, 34, 185);}
+      }
+
+    
+  }
