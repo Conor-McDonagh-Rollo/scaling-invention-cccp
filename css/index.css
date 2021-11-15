@@ -13,9 +13,9 @@ body {
     text-align: center;
 }
 
-#rave-div{
+#rave-header{
     text-align: center;
-    padding: 1%;
+    font-size:150%;
 }
 
 @media only screen {
