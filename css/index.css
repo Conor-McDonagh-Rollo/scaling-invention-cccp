@@ -13,11 +13,16 @@ body {
     text-align: center;
 }
 
+
+
+
 #rave-header{
     text-align: center;
     font-size:150%;
 }
-
+#rave{
+    text-align: center;
+}
 @media only screen {
     #rave {
       animation: rave 10s infinite;
@@ -30,6 +35,4 @@ body {
         75%  {background-color:rgb(34, 71, 235);}
         100% {background-color:rgb(235, 34, 185);}
       }
-
-    
-  }
+}
