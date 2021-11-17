@@ -13,7 +13,10 @@ body {
     text-align: center;
 }
 
-
+#centre {
+    text-align: center;
+    width: 100%;
+}
 
 
 #rave-header{
